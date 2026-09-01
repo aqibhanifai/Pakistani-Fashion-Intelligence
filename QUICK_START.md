@@ -98,19 +98,6 @@ Use these files for documentation and presentation:
 07_Project_Presentation_Aqib_Hanif.pptx
 ```
 
-## GitHub Upload - Easiest Method
-
-1. Extract the ZIP file on your computer.
-2. Sign in to GitHub.
-3. Click **New repository**.
-4. Repository name: `Pakistani-Fashion-Intelligence`
-5. Set visibility to **Public**.
-6. Do not add another README because this package already contains one.
-7. Create the repository.
-8. Click **uploading an existing file** or **Add file -> Upload files**.
-9. Upload all files and the `assets` folder from this extracted package.
-10. Commit message: `Add complete Pakistani Fashion Intelligence project`
-11. Click **Commit changes**.
 
 Recommended GitHub topics:
 
