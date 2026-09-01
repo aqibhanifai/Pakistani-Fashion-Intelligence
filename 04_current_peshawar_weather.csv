@@ -1,0 +1,2 @@
+﻿Region,Weather_Date,Temperature_C,Weather_Condition,Weather_Code,Max_Temperature_C,Min_Temperature_C,Humidity_Percent,Precipitation_mm,Wind_Speed_kmh,Source
+"Peshawar, Pakistan",2026-08-31,33.1,Clear,0,34.0,25.9,62,0.0,5.0,Open-Meteo API
