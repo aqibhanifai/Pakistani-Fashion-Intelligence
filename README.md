@@ -6,7 +6,7 @@ A portfolio data analytics project comparing the pricing, discount activity, pro
 
 I built the project as one complete workflow: **web scraping -> Python data cleaning -> PostgreSQL analysis -> Open-Meteo weather context -> interactive Excel dashboard -> business recommendations**.
 
-![Final Excel Dashboard](assets/dashboard_preview.png)
+![Final Excel Dashboard](dashboard_preview.png)
 
 ## Project Snapshot
 
